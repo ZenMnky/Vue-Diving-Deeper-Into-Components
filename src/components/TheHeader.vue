@@ -14,7 +14,7 @@ header {
   background-color: #14005e;
 }
 
-header header {
+header {
   color: white;
   margin: 0;
 }
